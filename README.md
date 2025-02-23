@@ -6,6 +6,8 @@
 ## Overview
 Nyenyeri Book Hub is a web application designed to help users discover and browse books. The app allows users to search, filter, and sort books based on criteria such as author or  published year. It uses **React** with **TypeScript** for the front end and a **Node.js** backend API to manage book data. 
 
+**You can check out the live demo of the project at:**  [Nyenyeri Book Hub Live Demo](https://whimsical-babka-17c8c7.netlify.app/)
+
 This project demonstrates the integration of front and backend technologies to build a full-stack application. It also includes plans for user authentication and authorization in the future.
 
 ## Project Goals
